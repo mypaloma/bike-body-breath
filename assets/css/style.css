@@ -805,7 +805,7 @@ footer {
 /* ── SCROLL PROGRESS BAR ── */
 #scroll-progress {
   position: fixed;
-  top: 88px; left: 0;
+  top: 85px; left: 0;
   height: 3px;
   width: 0%;
   background: #7ab87a;
